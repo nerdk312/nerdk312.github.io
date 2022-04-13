@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Research"
 
 ---
-This is a page in which I will write about my research interests
+Publications
