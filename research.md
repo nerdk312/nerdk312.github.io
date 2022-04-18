@@ -9,9 +9,8 @@ permalink: /Research/
 ## Explaining OOD detection using two-step   counterfactual generation
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
 ICANN 2022 In Review
-<figure>
+
 <img src="images/what-if.jpg"width="150" height="150" align="left" hspace=10>
-</figure>
 <img src="../images/what-if.jpg">
 <img src="images/what-if.jpg">
 [[Paper]](https://www.overleaf.com/project/623c91a3e49ceb864ebc4e44) [[Code]](https://github.com/OngoingMLProjects/Contrastive_Dirichlet)
