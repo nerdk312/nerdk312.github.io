@@ -9,7 +9,9 @@ permalink: /Research/
 ## Explaining OOD detection using two-step   counterfactual generation
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
 ICANN 2022 In Review
+<img src="../_images/what-if.jpg">
 [[Paper]](https://www.overleaf.com/project/623c91a3e49ceb864ebc4e44) [[Code]](https://github.com/OngoingMLProjects/Contrastive_Dirichlet)
+
 
 ##  Typicality-based point OOD detection
 
