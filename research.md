@@ -13,6 +13,8 @@ ICANN 2022 In Review
 <img src="../images/what-if.jpg"width="150" height="150" align="left" hspace=10>
 <img src="../images/what-if.jpg">
 <img src="images/what-if.jpg">
+<img src="images/what-if.jpg"width="150" height="150" align="left" hspace=10>
+
 [[Paper]](https://www.overleaf.com/project/623c91a3e49ceb864ebc4e44) [[Code]](https://github.com/OngoingMLProjects/Contrastive_Dirichlet)
 
 
