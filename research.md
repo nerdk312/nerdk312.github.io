@@ -17,6 +17,7 @@ ICANN 2022 In Review
 
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
 ECML 2022 In Review
+<img src="_images/what-if.jpg">
 [[Paper]](https://www.overleaf.com/project/6177e98aed9c4d52c9b492db) [[Code]]((https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty))
 
 ## Understanding the properties and limitations of contrastive learning for Out-of-Distribution detection
