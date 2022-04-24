@@ -7,13 +7,13 @@ permalink: /Research/
 # Publications
 
 ## Explaining OOD detection using two-step   counterfactual generation
+
+<img src="../images/what-if.jpg" width="200" 
+     height="250" style="float: left;margin-right:10px" />
+     
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
 ICANN 2022 In Review
 
-
-
-<img src="../images/what-if.jpg" width="400" 
-     height="500" style="float: left;margin-right:10px" />
      
 
 
