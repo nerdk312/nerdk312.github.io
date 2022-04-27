@@ -38,7 +38,16 @@ ICPR 2022 In Review
 
 
 
+# Projects
+## Adversarial Learning in a  Predator-Prey game
+Training a predator and prey in a simultaenosuly using reinforcement learning and examining the learning dynamics of the agents by fitting decision trees to the policies learnt by the different agents
+Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry
+MSc Disseration: University of Bristol and University of the West of England
+[[Paper]](https://www.overleaf.com/project/5d73620341090c00015db1a3)
 
+##  Development of a motion and   muscle sensing human-machine interface
+Training Linear Discriminant analysis and Support Vector Machine classifiers to classify te Mechanomyography signals from different  hand gestures. Using the trained classifiers to develop a game to aid stroke victims to regain functionality in their hands. 
+Nawid Keshtmand, Ravi Vaidyanathan
+MSc Thesis: Imperial College London
 
-
-
+[[Paper]](https://www.overleaf.com/project/5d5587e5bb34bd0cc71b9505)
