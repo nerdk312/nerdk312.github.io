@@ -6,11 +6,12 @@ permalink: /Research/
 
 # Publications
 
-## Explaining OOD detection using two-step   counterfactual generation
+## Explaining OOD detection using two-step counterfactual generation
 
 <img src="../images/what-if.jpg" width="150" 
      height="200" style="float: left;margin-right:10px" />
-     
+An approach for generating counterfactuals for OOD data points to better understand why a data point is categorized as OOD.
+<br/>
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
 ICANN 2022 In Review
 
@@ -20,8 +21,8 @@ ICANN 2022 In Review
 ##  Typicality-based point OOD detection
 <img src="../images/Typicality_inference.png" width="150" 
      height="200" style="float: left;margin-right:10px" />
-     
-     
+A typicality-based approach for point OOD detection which utilizes the nearest neighbours of test data points.     
+<br/>  
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
 ECML 2022 In Review
 [[Paper]](https://www.overleaf.com/project/6177e98aed9c4d52c9b492db) [[Code]](https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty)
@@ -29,7 +30,8 @@ ECML 2022 In Review
 ## Understanding the properties and limitations of contrastive learning for Out-of-Distribution detection
 <img src="../images/spectral_values.png" width="150" 
      height="200" style="float: left;margin-right:10px" />
-
+Examining the effect of supervision on the properties and OOD detection performance of contrastive learning algorithms.
+<br\>
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
 ICPR 2022 In Review
 [[Paper]](https://www.overleaf.com/project/610e721107d0070578038c9c)  [[Code]](https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty)
