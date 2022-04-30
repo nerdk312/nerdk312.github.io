@@ -31,7 +31,7 @@ ECML 2022 In Review
 <img src="../images/spectral_values.png" width="150" 
      height="200" style="float: left;margin-right:10px" />
 Examining the effect of supervision on the properties and OOD detection performance of contrastive learning algorithms.
-<br\>
+<br/>
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
 <br/>
 ICPR 2022 In Review
