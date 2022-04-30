@@ -33,10 +33,7 @@ ECML 2022 In Review
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
 ICPR 2022 In Review
 [[Paper]](https://www.overleaf.com/project/610e721107d0070578038c9c)  [[Code]](https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty)
-
-
-
-
+<br/><br/>
 
 # Projects
 ## Adversarial Learning in a  Predator-Prey game
