@@ -17,13 +17,13 @@ ICANN 2022 In Review
 
 [[Paper]](https://www.overleaf.com/project/623c91a3e49ceb864ebc4e44) [[Code]](https://github.com/OngoingMLProjects/Contrastive_Dirichlet)
 
-
 ##  Typicality-based point OOD detection
 <img src="../images/Typicality_inference.png" width="150" 
      height="200" style="float: left;margin-right:10px" />
 A typicality-based approach for point OOD detection which utilizes the nearest neighbours of test data points.     
 <br/>  
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
+<br/>
 ECML 2022 In Review
 [[Paper]](https://www.overleaf.com/project/6177e98aed9c4d52c9b492db) [[Code]](https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty)
 
@@ -33,6 +33,7 @@ ECML 2022 In Review
 Examining the effect of supervision on the properties and OOD detection performance of contrastive learning algorithms.
 <br\>
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
+<br/>
 ICPR 2022 In Review
 [[Paper]](https://www.overleaf.com/project/610e721107d0070578038c9c)  [[Code]](https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty)
 <br/><br/><br/><br/>
@@ -54,6 +55,7 @@ Implemented a multi-modal VQ-VAE which takes in RGB and infrared image data into
 Training a predator and prey in a simultaenosuly using reinforcement learning and examining the learning dynamics of the agents by fitting decision trees to the policies learnt by the different agents.
 <br/>
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry
+<br/>
 MSc Disseration: University of Bristol and University of the West of England
 [[Paper]](https://www.overleaf.com/project/5d73620341090c00015db1a3)
 
@@ -61,6 +63,7 @@ MSc Disseration: University of Bristol and University of the West of England
 Training Linear Discriminant analysis and Support Vector Machine classifiers to classify Mechanomyography signals from different hand gestures. Using the trained classifiers to develop a game to aid stroke victims to regain functionality in their hands. 
 <br/>
 Nawid Keshtmand, Ravi Vaidyanathan
+<br/>
 MSc Thesis: Imperial College London
 [[Paper]](https://www.overleaf.com/project/5d5587e5bb34bd0cc71b9505)
 
