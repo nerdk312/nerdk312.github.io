@@ -36,6 +36,10 @@ ICPR 2022 In Review
 <br/><br/>
 
 # Projects
+
+## Multimodal VQ-VAE
+Implemented a multi-modal VQ-VAE which takes in RGB and infrared image data into a joint latent space which can then be used to decode the differnet modalites.
+[[Code]](https://github.com/CompletedProjects/Multimodal_VQ-VAE)
 ## Adversarial Learning in a  Predator-Prey game
 Training a predator and prey in a simultaenosuly using reinforcement learning and examining the learning dynamics of the agents by fitting decision trees to the policies learnt by the different agents
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry
@@ -46,5 +50,5 @@ MSc Disseration: University of Bristol and University of the West of England
 Training Linear Discriminant analysis and Support Vector Machine classifiers to classify te Mechanomyography signals from different  hand gestures. Using the trained classifiers to develop a game to aid stroke victims to regain functionality in their hands. 
 Nawid Keshtmand, Ravi Vaidyanathan
 MSc Thesis: Imperial College London
-
 [[Paper]](https://www.overleaf.com/project/5d5587e5bb34bd0cc71b9505)
+
