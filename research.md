@@ -33,13 +33,16 @@ ECML 2022 In Review
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry  
 ICPR 2022 In Review
 [[Paper]](https://www.overleaf.com/project/610e721107d0070578038c9c)  [[Code]](https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty)
-<br/><br/>
-
+<br/><br/><br/><br/>
 # Projects
+## Literature notes
+Ongoing notes on the various papers and textbooks I read
+[[Link]](https://github.com/nerdk312/MLNotes)
 
 ## Multimodal VQ-VAE
 Implemented a multi-modal VQ-VAE which takes in RGB and infrared image data into a joint latent space which can then be used to decode the differnet modalites.
 [[Code]](https://github.com/CompletedProjects/Multimodal_VQ-VAE)
+
 ## Adversarial Learning in a  Predator-Prey game
 Training a predator and prey in a simultaenosuly using reinforcement learning and examining the learning dynamics of the agents by fitting decision trees to the policies learnt by the different agents
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry
