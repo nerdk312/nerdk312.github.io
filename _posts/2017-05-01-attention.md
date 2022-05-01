@@ -7,7 +7,7 @@ categories: media
 
 # Attention
 ## Motivation
-
+For the motivatng example of a sequence-sequence task (such as machine translation), this will involve using a recurrent encoder which takes in a sequence $x_{n}$
 
 ## MathJax
 
