@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "Nawid Keshtmand CV.pdf", title: "CV"}
   - {file: "research.md", title: "Research"}
+  - {file: "blog.md", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yl18410@bristol.ac.uk"}
