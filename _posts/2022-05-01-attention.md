@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Attention"
 mathjax: true
 layout: post
 categories: media
@@ -7,7 +7,7 @@ categories: media
 
 # Attention
 ## Motivation
-For the motivatng example of a sequence-sequence task (such as machine translation), this will involve using a recurrent encoder which takes in a sequence $x_{n}$
+For the motivatng example of a sequence-sequence task (such as machine translation), this will involve using a recurrent encoder which takes in input and output sequence given by: $$x_{1},x_{2},...x_{n}$$ $$y_{1},y_{2},...y_{n}$$ 
 
 ## MathJax
 
