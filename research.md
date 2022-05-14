@@ -45,10 +45,10 @@ Implemented a multi-modal VQ-VAE which takes in RGB and infrared image data into
 ## Adversarial Learning in a  Predator-Prey game
 Training a predator and prey in a simultaenosuly using reinforcement learning and examining the learning dynamics of the agents by fitting decision trees to the policies learnt by the different agents.<br/>
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry<br/>
-MSc Disseration: University of Bristol and University of the West of England [[Paper]](https://www.overleaf.com/project/5d73620341090c00015db1a3)
+MSc Disseration: University of Bristol and University of the West of England <a href="/docs/Bristol_MSc_dissertation.pdf">[Paper]</a>
 
 ##  Development of a motion and   muscle sensing human-machine interface
 Training Linear Discriminant analysis and Support Vector Machine classifiers to classify Mechanomyography signals from different hand gestures. Using the trained classifiers to develop a game to aid stroke victims to regain functionality in their hands.<br/> 
 Nawid Keshtmand, Ravi Vaidyanathan<br/>
-MSc Thesis: Imperial College London <a href="/docs/imperials_MSc_dissertation.pdf">Paper</a>
+MSc Thesis: Imperial College London <a href="/docs/imperials_MSc_dissertation.pdf">[Paper]</a>
 
