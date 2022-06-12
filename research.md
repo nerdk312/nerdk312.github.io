@@ -26,7 +26,7 @@ ECML 2022 In Review [[Paper]](https://www.overleaf.com/project/6177e98aed9c4d52c
      height="200" style="float: left;margin-right:10px" />
 Examining the effect of supervision on the properties and OOD detection performance of contrastive learning algorithms.<br/>
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry<br/>  
-ICPR 2022 Workshop - SSL - Theories, Applications, and Cross Modality for Self-Supervised Learning Models [[Paper]](https://www.overleaf.com/project/610e721107d0070578038c9c)  [[Code]](https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty)
+ICPR 2022 Workshop: SSL - Theories, Applications, and Cross Modality for Self-Supervised Learning Models [[Paper]](https://www.overleaf.com/project/610e721107d0070578038c9c)  [[Code]](https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty)
 <br/><br/><br/><br/>
 
 # Projects
