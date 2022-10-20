@@ -19,7 +19,7 @@ ICANN 2022 In Review [[Paper]](https://www.overleaf.com/project/623c91a3e49ceb86
      height="200" style="float: left;margin-right:10px" />
 A typicality-based approach for point OOD detection which utilizes the nearest neighbours of test data points.<br/>       
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry <br/>  
-ECML 2022 In Review [[Paper]](https://www.overleaf.com/project/6177e98aed9c4d52c9b492db) [[Code]](https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty)
+AISTATS 2023 In Review [[Paper]](https://www.overleaf.com/project/6177e98aed9c4d52c9b492db) [[Code]](https://github.com/OngoingMLProjects/Contrastive_Representation_Uncertainty)
 
 ## Understanding the properties and limitations of contrastive learning for Out-of-Distribution detection
 <img src="../images/spectral_values.png" width="150" 
