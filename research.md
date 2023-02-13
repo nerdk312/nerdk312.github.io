@@ -12,7 +12,7 @@ permalink: /Research/
      height="200" style="float: left;margin-right:10px" />
 An approach for generating counterfactuals for OOD data points to better understand why a data point is categorized as OOD.<br/>
 Nawid Keshtmand, Raul Santos-Rodriguez, Jonathan Lawry <br/>  
-AISTATS 2023 In Review [[Paper]](https://www.overleaf.com/project/623c91a3e49ceb864ebc4e44) [[Code]](https://github.com/OngoingMLProjects/Contrastive_Dirichlet)
+FACCT 2023 In Review <a href="/docs/Two-step counterfactual generation for OOD examples.pdf">[Paper]</a> [[Code]](https://github.com/OngoingMLProjects/Contrastive_Dirichlet)
 
 ##  Typicality-based point OOD detection
 <img src="../images/Typicality_inference.png" width="150" 
